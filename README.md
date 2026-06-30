@@ -1,12 +1,25 @@
-# React + Vite
+# Chithiboxd (TMDB API Integration)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive, and minimalist landing page that fetches and displays the current **Top 20 Trending Movies** using the **TMDB (The Movie Database) API**.
 
-Currently, two official plugins are available:
+### 🚀 Live Demo
+Check out the live project here: [https://chithiboxd.vercel.app](https://chithiboxd.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+### ✨ Key Features
+* **Dynamic Data Rendering**: Fetches and updates movie details automatically via the TMDB API.
+* **Mobile-Responsive**: Optimized for a seamless experience across mobile, tablet, and desktop devices.
+* **Performance-Oriented**: Lightweight codebase ensuring fast load times.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🛠 Technologies Used
+This project was built using core web technologies:
+* **HTML5**: Semantic structure.
+* **CSS3**: Responsive design and layout styling.
+* **JavaScript (Vanilla)**: Handling asynchronous API requests and DOM manipulation.
+* **TMDB API**: Serving real-time movie data.
+
+---
+
