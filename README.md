@@ -1,4 +1,4 @@
-# Chithiboxd (TMDB API Integration)
+# Chithiboxd
 
 A clean, responsive, and minimalist landing page that fetches and displays the current **Top 20 Trending Movies** using the **TMDB (The Movie Database) API**.
 
